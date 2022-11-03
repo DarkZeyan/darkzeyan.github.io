@@ -14,7 +14,7 @@
     --dracula-accent-alpha-alt: rgba(93, 211, 255, 0.35);
     --dracula-accent-alpha-alt2: rgba(93, 211, 255, 0.5);
     --dracula-accent-dark: #4193b2;
-    --dracula-accent-light: #9de4ff;
+    --dracula-accent-light: #7ddbff;
     --background-primary: var(--dracula-primary);
     --background-secondary: var(--dracula-secondary);
     --background-secondary-alt: var(--dracula-secondary);
@@ -232,7 +232,7 @@
 }
 
 .replying-eZ7p5z:before {
-    background-color: #9de4ff !important
+    background-color: #7ddbff !important
 }
 
 .replying-eZ7p5z::hover {
