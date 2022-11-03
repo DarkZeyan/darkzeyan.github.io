@@ -14,7 +14,7 @@
     --dracula-accent-alpha-alt: rgba(93, 211, 255, 0.35);
     --dracula-accent-alpha-alt2: rgba(93, 211, 255, 0.5);
     --dracula-accent-dark: #4193b2;
-    --dracula-accent-light: #6dd7ff;
+    --dracula-accent-light: #6cd5ff;
     --background-primary: var(--dracula-primary);
     --background-secondary: var(--dracula-secondary);
     --background-secondary-alt: var(--dracula-secondary);
@@ -55,7 +55,7 @@
     --brand-experiment-160: #cef1ff;
     --brand-experiment-200: #beedff;
     --brand-experiment-230: #aee9ff;
-    --brand-experiment-260: #7edbff;
+    --brand-experiment-260: #9de4ff;
     --brand-experiment-300: #8de0ff;
     --brand-experiment-330: #7ddbff;
     --brand-experiment-360: #6dd7ff;
@@ -97,7 +97,7 @@
     --brand-experiment-95a: rgba(93, 211, 255, 0.95)
 }
 
-.wordmark-2u86JB svg {
+.wordmark-2u86JB svg {255
     width: 0px
 }
 
